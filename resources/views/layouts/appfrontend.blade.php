@@ -11,7 +11,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <!-- Add site Favicon -->
-    <link rel="shortcut icon" href="{{ asset('frontend') }}/assets/images/favicon/favicon.ico" type="image/png">
+    <!-- <link rel="shortcut icon" href="{{ asset('frontend') }}/assets/images/favicon/logo.ico" type="image/png"> title image -->
 
 
     <!-- vendor css (Icon Font) -->
